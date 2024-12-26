@@ -84,3 +84,6 @@ p {
 .what-is-cs ul li:hover {
     background: #268bd2;
 }
+.underline {
+    text-decoration: underline red wavy;
+}
